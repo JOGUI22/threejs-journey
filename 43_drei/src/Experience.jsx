@@ -1,7 +1,8 @@
 import { Float, Html, MeshReflectorMaterial, OrbitControls, PivotControls, Text, TransformControls } from '@react-three/drei'
 import { useRef } from 'react'
+import { useControls } from 'leva'
 
-export default function Experience() {
+export default function Experience() {    
     const cube = useRef()
     const sphere = useRef()
 
