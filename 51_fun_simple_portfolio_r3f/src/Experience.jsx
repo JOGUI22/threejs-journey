@@ -56,7 +56,7 @@ export default function Experience() {
             rotation-y={- 1.25}
             maxWidth={2}
         >
-            Interact with the laptop!
+            Interact with the laptop screen!
         </Text>
 
     </>
